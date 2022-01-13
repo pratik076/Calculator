@@ -1,5 +1,2 @@
 # Calculator
-Calculator using HTML , CSS , JAVASCRIPT ...
-My name is prati thombare and this is my first html , css , js project
-I made calculator 
-hope u like it...
+Calculator Using HTML , CSS , JS .
